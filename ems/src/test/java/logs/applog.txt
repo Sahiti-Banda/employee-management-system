@@ -1,0 +1,2 @@
+INFO    2024-05-18 16:25:53,024 [main] com.springboot.ems.TestLogs  - This is the information log
+ERROR   2024-05-18 16:25:53,024 [main] com.springboot.ems.TestLogs  - Here the error logs will be printed
